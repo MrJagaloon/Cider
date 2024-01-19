@@ -1,0 +1,6 @@
+[submodule ".\\Cider\\vendor\\cider_glfw"]
+	path = .\\Cider\\vendor\\cider_glfw
+	url = https://github.com/MrJagaloon/cider_glfw
+[submodule ".\\Cider\\vendor\\cider_spdlog"]
+	path = .\\Cider\\vendor\\cider_spdlog
+	url = https://github.com/MrJagaloon/cider_spdlog
